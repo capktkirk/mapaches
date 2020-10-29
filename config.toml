@@ -6,7 +6,7 @@ publishDir = "public"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
-    mainbg = "resources/_gen/images/background.jpg"
+    mainbg = "static/background.jpg"
     mainTitle = "Pacos Paradise"
     mainText = "A placeholder for things."
 
