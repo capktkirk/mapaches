@@ -1,3 +1,5 @@
 baseURL = "http://culturamapache.com/"
 languageCode = "en-us"
 title = "Rosedales Cultura Mapache Site!"
+theme = "zzo"
+disableKinds = ["taxonomy", "taxonomyTerm"]
