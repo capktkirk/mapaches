@@ -5,6 +5,36 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: themes
+  label: themes
+  create: all
+  match: "**/*"
+- type: directory
+  path: static
+  label: static
+  create: all
+  match: "**/*"
+- type: directory
+  path: resources
+  label: resources
+  create: all
+  match: "**/*"
+- type: directory
+  path: layouts
+  label: layouts
+  create: all
+  match: "**/*"
+- type: directory
+  path: data
+  label: data
+  create: all
+  match: "**/*"
+- type: directory
+  path: archetype
+  label: archetype
+  create: all
+  match: "**/*"
+- type: directory
   path: content
   label: Pages
   create: all
