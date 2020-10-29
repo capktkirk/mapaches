@@ -1,4 +1,4 @@
-baseURL = "http://culturamapache.com/"
+baseURL = "https://culturamapache.com/"
 languageCode = "en-us"
 title = "Rosedales Cultura Mapache Site!"
 theme = "zzo"
