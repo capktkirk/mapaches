@@ -1,21 +1,16 @@
 baseURL = "https://culturamapache.com/"
-languageCode = "en-us"
-title = "Rosedales Cultura Mapache Site!"
-theme = ["SimpleIntro", "hugo-shortcode-gallery"]
-publishDir = "public"
 disableKinds = ["taxonomy", "taxonomyTerm"]
-
+languageCode = "en-us"
+publishDir = "public"
 [params]
     mainbg = "static/background.jpg"
     mainTitle = "Pacos Paradise"
     mainText = "A placeholder for things."
 
+theme = ["SimpleIntro", "hugo-shortcode-gallery"]
+title = "Rosedales Cultura Mapache Site!"
+[[menu.main]]
+identifier = "Pictures!"
+name = "Pictures"
+weight = 1
 [menus]
-    [[menu.main]]
-        identifier = "Pictures!"
-        name = "Pictures"
-        url = ""
-    [[menu.main]]
-        identifier = "Other!"
-        name = "Other"
-        url = ""
