@@ -18,6 +18,7 @@ fields:
   label: Class Gallery
   description: This is for a class!
 pages:
-- content/index.md
+- content/homepage.md
+- content/index.md.md
 - content/tester.md
 - static/this.md
