@@ -19,6 +19,5 @@ fields:
   description: This is for a class!
 pages:
 - content/_index.md.md
-- content/index.md
 - content/tester.md
 - static/this.md
