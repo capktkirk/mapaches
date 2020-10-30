@@ -19,3 +19,4 @@ fields:
   description: This is for a class!
 pages:
 - content/tester.md
+- static/this.md
