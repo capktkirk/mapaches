@@ -17,3 +17,5 @@ fields:
   config: {}
   label: Class Gallery
   description: This is for a class!
+pages:
+- content/tester.md
