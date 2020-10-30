@@ -1,6 +1,5 @@
 +++
 class_gallery = ["/uploads/background.jpg"]
-draft = true
 welcome_to_rosedale_ = "?????"
 
 +++
