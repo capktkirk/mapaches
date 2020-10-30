@@ -12,5 +12,3 @@ fields:
       format: markdown
   label: Donkey kong
   description: King of the Donkeys
-pages:
-- content/donkey.md
