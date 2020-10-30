@@ -12,7 +12,5 @@ welcome_to_rosedale_ = "??????????????????"
   </head>
   <body>
       {{ partial "navbar.html" . }}
-      {{ partial "home.html" . }}
-      {{ partial "footer.html" . }}
   </body>
 </html>
