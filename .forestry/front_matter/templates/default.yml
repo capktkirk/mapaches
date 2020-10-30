@@ -1,4 +1,14 @@
 ---
 label: default
 hide_body: true
-fields: []
+fields:
+- name: donkey_kong
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Donkey kong
+  description: King of the Donkeys
