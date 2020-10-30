@@ -1,4 +1,19 @@
 ---
 label: school_info
 hide_body: false
-fields: []
+fields:
+- name: welcome_to_rosedale_
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Welcome to Rosedale!
+  description: Help Desc
+- name: class_gallery
+  type: image_gallery
+  config: {}
+  label: Class Gallery
+  description: This is for a class!
