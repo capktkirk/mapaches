@@ -5,6 +5,10 @@ publishDir = "public"
 theme = ["SimpleIntro", "hugo-shortcode-gallery"]
 title = "Rosedales Cultura Mapache Site!"
 [[menu.main]]
+name = "Biblioteca"
+url = "http://rosedale.chicousd.org/LibraryBiblioteca/index.html"
+weight = 3
+[[menu.main]]
 identifier = "Pictures!"
 name = "Pictures"
 weight = 1
