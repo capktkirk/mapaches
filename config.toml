@@ -1,6 +1,6 @@
 baseURL = "https://www.culturamapache.com/"
 languageCode = "en-us"
-title = "Cultura Mapache!"
+title = "Cultura Mapache"
 theme = ["hugo-theme-bootie-docs"]
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 timeout = 60000 
@@ -15,12 +15,21 @@ timeout = 60000
 [menu]
 
     [[menu.main]]
-        name = "Rosedale"
-        url = "http://rosedale.chicousd.org/"
+        name = "Info"
+        url = "/info/"
 
     [[menu.main]]
-        name = "Altar"
-        url = "/gallery/gallery/"
+        name = "Galería"
+        url = "/galeria/"
+
+    [[menu.main]]
+        name = "Proyectos"
+        url = "/proyectos/"
+
+    [[menu.main]]
+        name = "Cosas Extras"
+        url = "/cosas/"
+    
 
 
 [markup]

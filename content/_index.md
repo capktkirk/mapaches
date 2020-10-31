@@ -5,8 +5,8 @@ theme: "showcase"
 draft: "false"
 ---
 ![Test](https://drive.google.com/uc?export=view&id=1lPBZPKbyCD4Z_9ubOQ4arCQXJpjkTVIy)
-# ¡Bienvenidos al sitio web de Cultura Mapache!
-# Welcome to the Cultura Mapache website!
+# **¡Bienvenidos al sitio web de Cultura Mapache!**
+# **Welcome to the Cultura Mapache website!**
     
 La escuela Rosedale se compromete a brindar una cultura de aprendizaje permanente mediante el desarrollo del bilingüisimo y la excelencia académica en un entorno multicultural. Esperamos que este sitio web promueva nuestro objetivo de celebrar el multiculturalismo dentro de nuestra comunidad escolar de Rosedale.
 
@@ -15,8 +15,8 @@ Rosedale Elementary School is committed to providing a culture of lifelong learn
 -----------------
 
 
-### Caras Pintadas como una Calavera de Azúcar 
-### Faces Painted like a Sugar Skull
+### **Caras Pintadas como una Calavera de Azúcar**
+### **Faces Painted like a Sugar Skull**
 
 
 La Directora Bettencourt pidió a los estudiantes de Rosedale que publicaran un video Flipgrid de sus caras pintadas como una calavera de azúcar para celebrar el Día de los Muertos. El personal de Rosedale votó por su favorito. Hay tres ganadores en primaria (K-2) y tres ganadores en intermedia (3-5).
@@ -43,8 +43,9 @@ Congratulations to all of the students who worked hard and posted a Flipgrid vid
 --------------------------
 
 
-**Calavera de Azúcar - Una Aventura Virtual del Día de Muertos del Auditorio Laxson**
-**Sugar Skull - A Virtual Day of the Dead Adventure from Laxson Auditorium**
+### **Calavera de Azúcar - Una Aventura Virtual del Día de Muertos del Auditorio Laxson**
+
+### **Sugar Skull - A Virtual Day of the Dead Adventure from Laxson Auditorium**
 
 
 El Auditorio Laxson de la Universidad de Chico State ha invitado a los estudiantes a unirse a ellos en una excursión virtual para aprender sobre El Día de los Muertos. ¡Visite su sitio web para experimentar Calavera de Azúcar - Una Aventura Virtual del Día de Muertos.
@@ -56,11 +57,11 @@ Chico State University's Laxson Auditorium has invited students to join them for
 
 [![Test](https://drive.google.com/uc?export=view&id=1ZVh2LTJot847Ci369VlC9sxKE5dNLOiF)](https://www.sugarskullshow.com/chico)
 
-
 -----------------------------
 
-**Cuentos del Día de Muertos**
-**Day of the Dead Stories**
+### **Cuentos del Día de Muertos**
+
+### **Day of the Dead Stories**
 
 
-
+{{< youtube XimFQY2qWZU >}}
