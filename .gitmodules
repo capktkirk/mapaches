@@ -1,9 +1,0 @@
-[submodule "themes/SimpleIntro"]
-	path = themes/SimpleIntro
-	url = https://github.com/gangjun06/SimpleIntro
-[submodule "themes/hugo-shortcode-gallery"]
-	path = themes/hugo-shortcode-gallery
-	url = https://github.com/mfg92/hugo-shortcode-gallery.git
-[submodule "hugo-theme-bootie-docs"]
-	path = hugo-theme-bootie-docs
-	url = https://github.com/progrhyme/hugo-theme-bootie-docs.git
