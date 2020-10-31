@@ -18,16 +18,16 @@ draft: "false"
 
 ## Ofrendas
 
-![alt](https://drive.google.com/uc?export=view&id=1vqetAQL8WCv6_TRD_uTgYWlGa9h6K44m)
+![Ofrenda1](https://drive.google.com/uc?export=view&id=1vqetAQL8WCv6_TRD_uTgYWlGa9h6K44m)
 
-![alt](https://drive.google.com/uc?export=view&id=1sn-S2EbxSrgIyOTxcDxdN-4Qksx-KPsm)
+![Ofrenda2](https://drive.google.com/uc?export=view&id=1sn-S2EbxSrgIyOTxcDxdN-4Qksx-KPsm)
 
-![alt](https://drive.google.com/uc?export=view&id=1SGauJ9st7_iwJ3f0Y7wrryHkPPKktcc-)
+![Ofrenda3](https://drive.google.com/uc?export=view&id=1SGauJ9st7_iwJ3f0Y7wrryHkPPKktcc-)
 
-![alt](https://drive.google.com/uc?export=view&id=1HFlgrmrzZu4QYSN2dfF7yH5PyG9n1LG0)
+![Ofrenda4](https://drive.google.com/uc?export=view&id=1HFlgrmrzZu4QYSN2dfF7yH5PyG9n1LG0)
 
-![alt](https://drive.google.com/uc?export=view&id=1myqmpsAN3AutdzCO8v1JaNXRShQQp_pQ)
+![Ofrenda5](https://drive.google.com/uc?export=view&id=1myqmpsAN3AutdzCO8v1JaNXRShQQp_pQ)
 
-![alt](https://drive.google.com/uc?export=view&id=18NgkpuBL0VMsSRXkP4l3wR9la048xi3w)
+![Ofrenda6](https://drive.google.com/uc?export=view&id=18NgkpuBL0VMsSRXkP4l3wR9la048xi3w)
 
-![alt](https://drive.google.com/uc?export=view&id=1da0nJ77zchpf5R-YLgE4L_AOEhiIxMAk)
+![Ofrenda7](https://drive.google.com/uc?export=view&id=1da0nJ77zchpf5R-YLgE4L_AOEhiIxMAk)

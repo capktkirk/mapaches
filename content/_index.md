@@ -4,7 +4,7 @@ date: "2020-10-30T19:07:40-07:00"
 theme: "hugo-theme-bootie-docs"
 draft: "false"
 ---
-![Test](https://drive.google.com/uc?export=view&id=1lPBZPKbyCD4Z_9ubOQ4arCQXJpjkTVIy)
+![Banner](https://drive.google.com/uc?export=view&id=1lPBZPKbyCD4Z_9ubOQ4arCQXJpjkTVIy)
 # **¡Bienvenidos al sitio web de Cultura Mapache!**
 # **Welcome to the Cultura Mapache website!**
     
@@ -14,7 +14,7 @@ Rosedale Elementary School is committed to providing a culture of lifelong learn
 
 -----------------
 
-![Test](https://drive.google.com/uc?export=view&id=1RCPz5LnaFaf92kM58-1wryi6CromwtIz)
+![Ladies](https://drive.google.com/uc?export=view&id=1RCPz5LnaFaf92kM58-1wryi6CromwtIz)
 
 
 ### **Caras Pintadas como una Calavera de Azúcar**
@@ -56,7 +56,7 @@ Chico State University's Laxson Auditorium has invited students to join them for
 
 [https://www.sugarskullshow.com/chico](https://www.sugarskullshow.com/chico)
 
-[![Test](https://drive.google.com/uc?export=view&id=1ZVh2LTJot847Ci369VlC9sxKE5dNLOiF)](https://www.sugarskullshow.com/chico)
+[![Sugarskullshow](https://drive.google.com/uc?export=view&id=1ZVh2LTJot847Ci369VlC9sxKE5dNLOiF)](https://www.sugarskullshow.com/chico)
 
 -----------------------------
 
