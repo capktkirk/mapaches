@@ -6,7 +6,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 timeout = 60000 
 
 [params]
-  author = "Maestra Kirk, Kyle Kirk, Roberto Pacheco"
+  author = "Krizia Garcia, Kelly Kirk, Kyle Kirk, Roberto Pacheco"
   title = "Cultura Mapache!"
   description = "Welcome."
   message = ""
@@ -16,19 +16,19 @@ timeout = 60000
 
     [[menu.main]]
         name = "Info"
-        url = "/info/"
+        url = "/info/info/"
 
     [[menu.main]]
         name = "Galería"
-        url = "/galeria/"
+        url = "/galeria/galeria/"
 
     [[menu.main]]
         name = "Proyectos"
-        url = "/proyectos/"
+        url = "/proyectos/proyectos/"
 
     [[menu.main]]
         name = "Cosas Extras"
-        url = "/cosas/"
+        url = "/cosas/cosas/"
     
 
 

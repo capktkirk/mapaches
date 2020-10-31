@@ -1,5 +1,5 @@
 ---
-title: "Index"
+title: "Main"
 date: "2020-10-30T19:07:40-07:00"
 theme: "showcase"
 draft: "false"
@@ -14,6 +14,8 @@ Rosedale Elementary School is committed to providing a culture of lifelong learn
 
 -----------------
 
+![Test](https://drive.google.com/uc?export=view&id=1RCPz5LnaFaf92kM58-1wryi6CromwtIz)
+
 
 ### **Caras Pintadas como una Calavera de Azúcar**
 ### **Faces Painted like a Sugar Skull**
@@ -26,6 +28,7 @@ Principal Bettencourt asked Rosedale students to post a Flipgrid video of their 
 
 ***Ganadores K-2***
 ***Winners K-2***
+
 
 [![Calixto](/imgs/Calixto-thumb.jpg)](/imgs/Calixto.jpg) [![Quinn](/imgs/Quinn-thumb.jpg)](/imgs/Quinn.jpg) [![Theo](/imgs/Theo-thumb.jpg)](/imgs/Theo.jpg)
 

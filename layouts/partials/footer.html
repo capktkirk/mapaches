@@ -1,18 +1,13 @@
 {{ $baseUrl := .Site.BaseURL }}
 <hr />
 
-<div class="row">
-	<div class="col-sm-8">
-		<p class="doc-footer-em"><a href="#" onclick="resetSidebarPos()">Back to TOP</a></p>
-	</div>
-</div>
 
 </div> <!-- /.container -->
 
 <footer class="doc-footer">
 	{{ with .Site.Params.repositoryUrl }}<p class="doc-footer-em">Browse <strong><a href="{{ . }}">Repository</a></strong></p>{{ end }}
 	{{ with .Site.Copyright }}<p>{{ . }}</p>{{ end }}
-	<p>Powered by <strong><a href="https://github.com/progrhyme/hugo-theme-bootie-docs">Bootie Docs</a></strong> Design by Maestra Kelly, Kyle Kirk and Roberto Pacheco.
+	<p>Powered by <strong><a href="https://github.com/progrhyme/hugo-theme-bootie-docs">Bootie Docs</a></strong> Design by Krizia Garcia, Kelly Kirk, Kyle Kirk and Roberto Pacheco.
 </footer>
 
 {{ with .Site.Params.analytics }}<script>
