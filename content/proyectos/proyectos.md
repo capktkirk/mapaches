@@ -12,7 +12,7 @@ draft: "false"
 ----------
 
 ## Más Proyectos
-[![the Flipgrid website](https://drive.google.com/uc?export=view&id=12CpEgv8jbDd6jZqyUcNrnqupjOYmjkte)]("https://flipgrid.com/292babd1)
+[![the Flipgrid website](https://drive.google.com/uc?export=view&id=12CpEgv8jbDd6jZqyUcNrnqupjOYmjkte)]("https://flipgrid.com/292babd1")
 
 ----------
 
