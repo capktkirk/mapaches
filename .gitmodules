@@ -6,4 +6,4 @@
 	url = https://github.com/mfg92/hugo-shortcode-gallery.git
 [submodule "hugo-theme-bootie-docs"]
 	path = hugo-theme-bootie-docs
-	url = git@github.com:progrhyme/hugo-theme-bootie-docs.git
+	url = https://github.com/progrhyme/hugo-theme-bootie-docs.git
