@@ -4,11 +4,11 @@ date: "2020-10-30T19:07:40-07:00"
 theme: "showcase"
 draft: "false"
 ---
-
+![Test](https://drive.google.com/uc?export=view&id=1lPBZPKbyCD4Z_9ubOQ4arCQXJpjkTVIy)
 # ¡Bienvenidos al sitio web de Cultura Mapache!
 
-    
-Welcome to the Cultura Mapache website!
+
+**Welcome to the Cultura Mapache website!**
     
 La escuela de Rosedale se compromete a brindar una cultura de aprendizaje permanente mediante el desarrollo del bilingüisimo y la excelencia académica en un entorno multicultural. Esperamos que este sitio web promueva nuestro objetivo de celebrar el multiculturalismo dentro de nuestra comunidad escolar de Rosedale.
 
@@ -29,13 +29,15 @@ Principal Bettencourt asked Rosedale students to post a Flipgrid video of their 
 Ganadores K-2
 Winners K-2
 
+[![kid1](/imgs/Calixto-thumb.jpg)](/imgs/Calixto.jpg) [![kid2](/imgs/Marlen-thumb.jpg)](/imgs/Marlen.jpg) [![kid1](/imgs/Maya-thumb.jpg)](/imgs/Maya.jpg)
 
 Ganadores 3-5
 Winners 3-5
 
+[![kid1](/imgs/Quinn-thumb.jpg)](/imgs/Quinn.jpg) [![kid2](/imgs/Sofia-thumb.jpg)](/imgs/Sofia.jpg) [![kid1](/imgs/Theo-thumb.jpg)](/imgs/Theo.jpg)
 
 
-¡Felicitaciones a todos los estudiantes que trabajaron arduamente y publicaron un video Flipgrid! Favor de visitar <a href="https://flipgrid.com/292babd1">el sitio web Flipgrid</a> para ver más caras pintadas y otros proyectos.
+¡Felicitaciones a todos los estudiantes que trabajaron arduamente y publicaron un video Flipgrid! Favor de visitar [el sitio web Flipgrid]("https://flipgrid.com/292babd1) para ver más caras pintadas y otros proyectos.
 
 
 Congratulations to all of the students who worked hard and posted a video!

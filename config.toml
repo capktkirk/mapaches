@@ -1,14 +1,14 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Cultura Mapache!"
-theme = ["showcase"]
+theme = ["hugo-theme-bootie-docs"]
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 timeout = 60000 
 
 [params]
   author = "Maestra Kirk, Kyle Kirk, Roberto Pacheco"
   title = "Cultura Mapache!"
-  description = "Minimal, one page, theme for showcasing your work"
+  description = "WEEEEEEEEEEEEEEE"
   message = ""
   hideAutoMenu = false
   heroimg = "imgs/clip-art-banner-7.png"
