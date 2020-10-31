@@ -1,20 +1,24 @@
-baseURL = "https://culturamapache.com/"
-disableKinds = ["taxonomy", "taxonomyTerm"]
+baseURL = "http://example.org/"
 languageCode = "en-us"
-publishDir = "public"
-[params]
-    mainbg = "static/background.jpg"
-    mainTitle = "Pacos Paradise"
-    mainText = "A placeholder for things."
+title = "Cultura Mapache!"
+theme = ["showcase"]
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+timeout = 60000 
 
-theme = ["SimpleIntro", "hugo-shortcode-gallery"]
-title = "Rosedales Cultura Mapache Site!"
-[[menu.main]]
-name = "Biblioteca"
-url = "http://rosedale.chicousd.org/LibraryBiblioteca/index.html"
-weight = 3
-[[menu.main]]
-identifier = "Pictures!"
-name = "Pictures"
-weight = 1
-[menus]
+[params]
+  author = "Maestra Kirk, Kyle Kirk, Roberto Pacheco"
+  title = "Cultura Mapache!"
+  description = "Minimal, one page, theme for showcasing your work"
+  message = ""
+  hideAutoMenu = false
+  heroimg = "imgs/clip-art-banner-7.png"
+
+[menu]
+
+    [[menu.main]]
+        name = "Rosedale"
+        url = "http://rosedale.chicousd.org/"
+
+    [[menu.main]]
+        name = "Testing"
+        url = "/gallery/gallery/"
