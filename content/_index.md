@@ -1,7 +1,7 @@
 ---
-title: "Main"
+title: "Cultura Mapache"
 date: "2020-10-30T19:07:40-07:00"
-theme: "showcase"
+theme: "hugo-theme-bootie-docs"
 draft: "false"
 ---
 ![Test](https://drive.google.com/uc?export=view&id=1lPBZPKbyCD4Z_9ubOQ4arCQXJpjkTVIy)
