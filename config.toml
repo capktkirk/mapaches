@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.culturamapache.com/"
 languageCode = "en-us"
 title = "Cultura Mapache!"
 theme = ["hugo-theme-bootie-docs"]
@@ -8,10 +8,9 @@ timeout = 60000
 [params]
   author = "Maestra Kirk, Kyle Kirk, Roberto Pacheco"
   title = "Cultura Mapache!"
-  description = "WEEEEEEEEEEEEEEE"
+  description = "Welcome."
   message = ""
   hideAutoMenu = false
-  heroimg = "imgs/clip-art-banner-7.png"
 
 [menu]
 
@@ -20,7 +19,7 @@ timeout = 60000
         url = "http://rosedale.chicousd.org/"
 
     [[menu.main]]
-        name = "Testing"
+        name = "Altar"
         url = "/gallery/gallery/"
 
 
