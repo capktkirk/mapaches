@@ -26,14 +26,12 @@ La Directora Bettencourt pidió a los estudiantes de Rosedale que publicaran un 
 Principal Bettencourt asked Rosedale students to post a Flipgrid video of their faces painted like a sugar skull to celebrate the Day of the Dead. Rosedale staff voted for their favorite. There are three winners in primary (K-2) and three winners in intermediate (3-5).
 
 
-***Ganadores K-2***
-***Winners K-2***
+***Ganadores K-2*** // ***Winners K-2***
 
 
 [![Calixto](/imgs/Calixto-thumb.jpg)](/imgs/Calixto.jpg) [![Quinn](/imgs/Quinn-thumb.jpg)](/imgs/Quinn.jpg) [![Theo](/imgs/Theo-thumb.jpg)](/imgs/Theo.jpg)
 
-***Ganadores 3-5***
-***Winners 3-5***
+***Ganadores 3-5*** // ***Winners 3-5***
 
 [![Marlen](/imgs/Marlen-thumb.jpg)](/imgs/Marlen.jpg) [![Sofia](/imgs/Sofia-thumb.jpg)](/imgs/Sofia.jpg) [![Maya](/imgs/Maya-thumb.jpg)](/imgs/Maya.jpg)
 
