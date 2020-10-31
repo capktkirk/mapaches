@@ -66,3 +66,10 @@ Chico State University's Laxson Auditorium has invited students to join them for
 
 
 {{< youtube XimFQY2qWZU >}}
+
+------------------------------
+{{< youtube 1TNyDoYac9g >}}
+
+-------------------------------
+
+{{< youtube HbMfh4AZExE >}}
