@@ -7,18 +7,22 @@ link:
 image:
 ---
 
-## Cómo hacer calaveras de azúcar
-{{< youtube Xx2Xztofm_Y >}}
+## Actividades para Día de Muertos
+## Activities for Día de Muertos
 
------------
-
-[![Ideas por Día de Muertos](https://www.profedeele.es/wp-content/uploads/2017/10/portada-ideas-dia-muertos-web2-1.jpg)](https://www.profedeele.es/profesores/ideas-dia-de-muertos/)
+[![Actividades para Día de Muertos](https://www.profedeele.es/wp-content/uploads/2017/10/portada-ideas-dia-muertos-web2-1.jpg)](https://www.profedeele.es/profesores/ideas-dia-de-muertos/)
 
 ------------
 
 [![Colorín colorado](https://www.colorincolorado.org/sites/all/themes/colorincolorado_zen/logo.png)](https://www.colorincolorado.org/es/booklist/una-celebraci%C3%B3n-del-d%C3%ADa-de-los-muertos)
 
 ------------
+
+## Cómo Hacer Calaveras de Azúcar
+## How to Make Sugar Skulls
+{{< youtube Xx2Xztofm_Y >}}
+
+-----------
 
 ## Película Corta
 {{< youtube jCQnUuq-TEE >}}

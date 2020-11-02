@@ -5,6 +5,7 @@ theme: "hugo-theme-bootie-docs"
 draft: "false"
 ---
 ![Banner](https://drive.google.com/uc?export=view&id=1lPBZPKbyCD4Z_9ubOQ4arCQXJpjkTVIy)
+
 # **¡Bienvenidos al sitio web de Cultura Mapache!**
 # **Welcome to the Cultura Mapache website!**
     
