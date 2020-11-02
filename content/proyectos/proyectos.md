@@ -5,8 +5,8 @@ theme: "hugo-theme-bootie-docs"
 draft: "false"
 ---
 
-## Hechos Importantes sobre Día de los Muertos
-## Important Facts about the Day of the Dead
+### Hechos Importantes sobre Día de los Muertos
+### Important Facts about the Day of the Dead
 
 *Haga clic en dibujo de abajo para visitar el Flipgrid con hechos importantes sobre el Día de los Muertos.*
 
@@ -16,8 +16,8 @@ draft: "false"
 
 ----------
 
-## Más Proyectos
-## More Projects
+### Más Proyectos
+### More Projects
 
 *Haga clic en dibujo de abajo para visitar el Flipgrid con más proyectos.*
 
@@ -27,7 +27,7 @@ draft: "false"
 
 ----------
 
-## Ofrendas
+### Ofrendas
 
 ![Ofrenda1](https://drive.google.com/uc?export=view&id=1vqetAQL8WCv6_TRD_uTgYWlGa9h6K44m)
 

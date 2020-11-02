@@ -7,8 +7,8 @@ link:
 image:
 ---
 
-## Actividades para Día de Muertos
-## Activities for Día de Muertos
+### Actividades para Día de Muertos
+### Activities for Día de Muertos
 
 [![Actividades para Día de Muertos](https://www.profedeele.es/wp-content/uploads/2017/10/portada-ideas-dia-muertos-web2-1.jpg)](https://www.profedeele.es/profesores/ideas-dia-de-muertos/)
 
@@ -18,26 +18,26 @@ image:
 
 ------------
 
-## Cómo Hacer Calaveras de Azúcar
-## How to Make Sugar Skulls
+### Cómo Hacer Calaveras de Azúcar
+### How to Make Sugar Skulls
 {{< youtube Xx2Xztofm_Y >}}
 
 -----------
 
-## Película Corta
+### Película Corta
 {{< youtube jCQnUuq-TEE >}}
 
 ------------
 
-## LEGO Día de los Muertos
+### LEGO Día de los Muertos
 {{< youtube GiWHInnTzTA >}}
 
 -------------
 
-## Historia de Día de los Muertos
+### Historia de Día de los Muertos
 {{< youtube GzaZidVrebA >}}
 
 -------------
 
-## Quatro Elementos
+### Quatro Elementos
 {{< youtube bB33JxzUfZw >}}
