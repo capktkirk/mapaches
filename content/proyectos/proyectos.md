@@ -7,11 +7,19 @@ draft: "false"
 
 ## Hechos Importantes sobre Día de los Muertos
 ## Important Facts about the Day of the Dead
+
+*Haz clic el dibujo de abajo para visitar el Flipgrid con hechos importantes sobre el Día de los Muertos.*
+
+*Click the picture below to visit the Flipgrid with important facts about Día de los Muertos.*
+
 [![alt](https://drive.google.com/uc?export=view&id=1Fmwi0kcJR1_HlRA_KXscZ702c_sl7wX8)](https://flipgrid.com/328d53bb)
 
 ----------
 
 ## Más Proyectos
+*Haz clic el dibujo de abajo para visitar el Flipgrid con más proyectos.*
+
+*Click the picture below to visit the Flipgrid with more projects.*
 [![the Flipgrid website](https://drive.google.com/uc?export=view&id=12CpEgv8jbDd6jZqyUcNrnqupjOYmjkte)](https://flipgrid.com/292babd1)
 
 ----------
