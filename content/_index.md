@@ -9,7 +9,7 @@ draft: "false"
 # **¡Bienvenidos al sitio web de Cultura Mapache!**
 # **Welcome to the Cultura Mapache website!**
     
-La escuela Rosedale se compromete a brindar una cultura de aprendizaje permanente mediante el desarrollo del bilingüisimo y la excelencia académica en un entorno multicultural. Esperamos que este sitio web promueva nuestro objetivo de celebrar el multiculturalismo dentro de nuestra comunidad escolar de Rosedale.
+La escuela Rosedale se compromete a brindar una cultura de aprendizaje permanente mediante el desarrollo del bilingüismo y la excelencia académica en un entorno multicultural. Esperamos que este sitio web promueva nuestro objetivo de celebrar el multiculturalismo dentro de nuestra comunidad escolar de Rosedale.
 
 Rosedale Elementary School is committed to providing a culture of lifelong learning by developing bilingualism and academic excellence in a multicultural environment. We hope that this website will further our goal to celebrate multiculturalism within our Rosedale community.
 
@@ -22,7 +22,7 @@ Rosedale Elementary School is committed to providing a culture of lifelong learn
 ### **Faces Painted like a Sugar Skull**
 
 
-La Directora Bettencourt pidió a los estudiantes de Rosedale que publicaran un video Flipgrid de sus caras pintadas como una calavera de azúcar para celebrar el Día de los Muertos. El personal de Rosedale votó por su favorito. Hay tres ganadores en primaria (K-2) y tres ganadores en intermedia (3-5).
+La Directora Bettencourt pidió a los estudiantes de Rosedale que publicaran un video Flipgrid de sus caras pintadas como una calavera de azúcar para celebrar el Día de los Muertos. El personal de Rosedale votó por su favorito. Hay tres ganadores en primaria (K-2) y tres ganadores en intermedio (3-5).
 
 Principal Bettencourt asked Rosedale students to post a Flipgrid video of their faces painted like a sugar skull to celebrate the Day of the Dead. Rosedale staff voted for their favorite. There are three winners in primary (K-2) and three winners in intermediate (3-5).
 
